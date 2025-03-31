@@ -27,12 +27,12 @@ h2 {
 }
 
 h1::before {
-  content: "📧";
+  content: "";
   display: block;
 }
 
 h2::before {
-  content: "🐅";
+  content: "";
   display: block;
 }
 
